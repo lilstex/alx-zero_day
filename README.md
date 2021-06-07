@@ -1,0 +1,1 @@
+_This is my zero day as an alx student. This project is for familiarizinf myself with git and github._
